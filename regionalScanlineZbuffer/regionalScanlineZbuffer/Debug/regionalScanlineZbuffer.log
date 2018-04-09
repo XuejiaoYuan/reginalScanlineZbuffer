@@ -1,0 +1,15 @@
+﻿  Objects.cpp
+f:\002 zju\003 cg\cg_袁雪姣_21721048\regionalscanlinezbuffer\regionalscanlinezbuffer\objects.cpp(26): warning C4305: “=”: 从“int”到“GLfloat”截断
+f:\002 zju\003 cg\cg_袁雪姣_21721048\regionalscanlinezbuffer\regionalscanlinezbuffer\objects.cpp(28): warning C4305: “=”: 从“int”到“GLfloat”截断
+f:\002 zju\003 cg\cg_袁雪姣_21721048\regionalscanlinezbuffer\regionalscanlinezbuffer\objects.cpp(72): warning C4244: “=”: 从“int”转换到“GLfloat”，可能丢失数据
+f:\002 zju\003 cg\cg_袁雪姣_21721048\regionalscanlinezbuffer\regionalscanlinezbuffer\objects.cpp(90): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\002 zju\003 cg\cg_袁雪姣_21721048\regionalscanlinezbuffer\regionalscanlinezbuffer\objects.cpp(91): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\002 zju\003 cg\cg_袁雪姣_21721048\regionalscanlinezbuffer\regionalscanlinezbuffer\objects.cpp(94): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\002 zju\003 cg\cg_袁雪姣_21721048\regionalscanlinezbuffer\regionalscanlinezbuffer\objects.cpp(96): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\002 zju\003 cg\cg_袁雪姣_21721048\regionalscanlinezbuffer\regionalscanlinezbuffer\objects.cpp(103): warning C4305: “=”: 从“int”到“GLfloat”截断
+f:\002 zju\003 cg\cg_袁雪姣_21721048\regionalscanlinezbuffer\regionalscanlinezbuffer\objects.cpp(105): warning C4305: “=”: 从“int”到“GLfloat”截断
+f:\002 zju\003 cg\cg_袁雪姣_21721048\regionalscanlinezbuffer\regionalscanlinezbuffer\objects.cpp(194): warning C4101: “xMin”: 未引用的局部变量
+f:\002 zju\003 cg\cg_袁雪姣_21721048\regionalscanlinezbuffer\regionalscanlinezbuffer\objects.cpp(263): warning C4305: “=”: 从“int”到“GLfloat”截断
+f:\002 zju\003 cg\cg_袁雪姣_21721048\regionalscanlinezbuffer\regionalscanlinezbuffer\objects.cpp(265): warning C4305: “=”: 从“int”到“GLfloat”截断
+  regionalScanlineZbuffer.vcxproj -> F:\002 ZJU\003 CG\CG_袁雪姣_21721048\regionalScanlineZbuffer\Debug\regionalScanlineZbuffer.exe
+  regionalScanlineZbuffer.vcxproj -> F:\002 ZJU\003 CG\CG_袁雪姣_21721048\regionalScanlineZbuffer\Debug\regionalScanlineZbuffer.pdb (Partial PDB)
