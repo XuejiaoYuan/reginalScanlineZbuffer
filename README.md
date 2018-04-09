@@ -21,8 +21,8 @@
 ```
 /////////////////////////////////////////////////
 // 		物体初始化操作			//				      
-// 读取.obj文件中的顶点和面顶点序列，若需要加速处理，  	//
-// 将acc变量设置为true;				//		      
+//	读取.obj文件中的顶点和面顶点序列，若需要加速处理，  	//
+//	将acc变量设置为true;				//		      
 /////////////////////////////////////////////////
 void InitializeObj(const string& ObjName, const int winWidth, 
 		const int winHeight, bool acc = false);
