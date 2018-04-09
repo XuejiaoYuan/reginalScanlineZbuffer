@@ -4,9 +4,9 @@
 [区域扫描线zbuffer](https://xuejiaoyuan.github.io/2017/12/08/002-区域扫描线z-buffer算法及实现记录/)
 
 # 开发环境
-**处理器：**Interl(R) Core(TM) i5-6200U CPU @ 2.30GHz, RAM 4.00GB.
+**处理器：** Interl(R) Core(TM) i5-6200U CPU @ 2.30GHz, RAM 4.00GB.
 
-**开发环境：**Micorsoft Visual Studio 2015.
+**开发环境：** Micorsoft Visual Studio 2015.
 
 # 程序说明
 ### 输入格式
