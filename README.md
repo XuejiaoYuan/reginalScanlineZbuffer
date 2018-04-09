@@ -25,7 +25,7 @@
 // 	将acc变量设置为true；					      
 ////////////////////////////////////////////////
 void InitializeObj(const string& ObjName, const int winWidth, 
-					const int winHeight, bool acc = false);
+		const int winHeight, bool acc = false);
 ```
 
 # 结果测试
@@ -39,7 +39,6 @@ void InitializeObj(const string& ObjName, const int winWidth,
 		<td>未加速时间</td>
 		<td>加速时间</td>
 	</tr>
-
 	<tr>
 		<td>bunny.obj</td>
 		<td>34834</td>
@@ -47,7 +46,6 @@ void InitializeObj(const string& ObjName, const int winWidth,
 		<td>25.333</td>
 		<td>11.424</td>
 	</tr>
-	
 		<tr>
 		<td>cat.obj</td>
 		<td>1136</td>
@@ -55,7 +53,6 @@ void InitializeObj(const string& ObjName, const int winWidth,
 		<td>1.905</td>
 		<td>1.071</td>
 	</tr>
-	
 		<tr>
 		<td>deer.obj</td>
 		<td>772</td>
@@ -63,7 +60,6 @@ void InitializeObj(const string& ObjName, const int winWidth,
 		<td>2.398</td>
 		<td>1.288</td>
 	</tr>
-	
 		<tr>
 		<td>IronMan.obj</td>
 		<td>129759</td>
@@ -71,7 +67,6 @@ void InitializeObj(const string& ObjName, const int winWidth,
 		<td>64.917</td>
 		<td>27.977</td>
 	</tr>
-	
 		<tr>
 		<td>horse.obj</td>
 		<td>2831</td>
@@ -79,5 +74,4 @@ void InitializeObj(const string& ObjName, const int winWidth,
 		<td>4.959</td>
 		<td>2.696</td>
 	</tr>
-
 </table>
